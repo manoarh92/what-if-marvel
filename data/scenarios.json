@@ -1,0 +1,67 @@
+[
+  {
+    "id": "scenario-thor-snap",
+    "question": "What if Thor snapped in Endgame?",
+    "short_title": "Thor's Final Snap",
+    "target_character": "Thor Odinson",
+    "target_event_id": "event-11",
+    "changed_action": "Performs the Final Snap to destroy Thanos and his army",
+    "replacement_actor": "Thor",
+    "original_actor": "Tony Stark",
+    "movie": "Avengers: Endgame",
+    "stability_estimate": 82,
+    "summary": "Thor claims the Nano Gauntlet during the chaotic Battle of Earth. Channeling his godlike Asgardian physiology and lightning through the cosmic surge, Thor disintegrates Thanos' army. Tony Stark survives, changing the fate of Peter Parker and the post-Endgame world."
+  },
+  {
+    "id": "scenario-steve-stays",
+    "question": "What if Steve Rogers didn't return the Infinity Stones?",
+    "short_title": "The Unreturned Stones",
+    "target_character": "Steve Rogers",
+    "target_event_id": "event-13",
+    "changed_action": "Refuses to return the stones to the past realities",
+    "replacement_actor": "Steve Rogers",
+    "original_actor": "Steve Rogers",
+    "movie": "Avengers: Endgame",
+    "stability_estimate": 45,
+    "summary": "Steve chooses not to enter the quantum portal. Branched past realities collapse without their anchors, causing multiversal incursions, while Earth-616 becomes a cosmic focal point holding multiple active stones."
+  },
+  {
+    "id": "scenario-tony-survives",
+    "question": "What if Tony Stark survived the Battle of Earth?",
+    "short_title": "Tony Stark Survives",
+    "target_character": "Tony Stark",
+    "target_event_id": "event-12",
+    "changed_action": "Nano-armor redirects gamma dispersion; Stark survives in critical condition",
+    "replacement_actor": "Tony Stark",
+    "original_actor": "Tony Stark",
+    "movie": "Avengers: Endgame",
+    "stability_estimate": 88,
+    "summary": "The Mark 85 armor's emergency sub-venting saves Stark's vital organs. Pepper and Wakandan medical science stabilize him. Tony retires to the lakeside with Morgan, continuing to advise Spider-Man and fund global planetary defenses."
+  },
+  {
+    "id": "scenario-thanos-wins-earth",
+    "question": "What if Thanos won the Battle of Earth?",
+    "short_title": "Thanos Recreates the Universe",
+    "target_character": "Thanos",
+    "target_event_id": "event-11",
+    "changed_action": "Thanos successfully equips the Nano Gauntlet and snaps reality",
+    "replacement_actor": "Thanos",
+    "original_actor": "Tony Stark",
+    "movie": "Avengers: Endgame",
+    "stability_estimate": 14,
+    "summary": "Thanos shreds reality down to its last atom and crafts a grateful new universe that knows not what it has lost but only what it has been given. Total extinction of Prime continuity."
+  },
+  {
+    "id": "scenario-hulk-rage",
+    "question": "What if Bruce Banner stayed as Savage Hulk permanently?",
+    "short_title": "The Permanent Savage Hulk",
+    "target_character": "Bruce Banner",
+    "target_event_id": "event-8",
+    "changed_action": "Gamma surge awakens untamed Savage Hulk rage",
+    "replacement_actor": "Bruce Banner",
+    "original_actor": "Bruce Banner",
+    "movie": "Avengers: Endgame",
+    "stability_estimate": 74,
+    "summary": "The Blip snap completely shatters Banner's merged psyche, returning the berserker Hulk with cosmic radiation empowerment, leveling the battlefield before turning on both friends and foes."
+  }
+]

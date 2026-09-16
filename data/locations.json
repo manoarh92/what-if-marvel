@@ -1,0 +1,38 @@
+[
+  {
+    "id": "loc-avengers-compound",
+    "name": "Avengers Compound",
+    "region": "Upstate New York, Earth",
+    "significance": "Primary headquarters for the Avengers, location of the Time Heist staging, destroyed in 2023 Battle of Earth."
+  },
+  {
+    "id": "loc-wakanda",
+    "name": "Kingdom of Wakanda",
+    "region": "East Africa, Earth",
+    "significance": "Vibranium-rich technological stronghold; site of the 2018 defense against the Black Order and Thanos' initial Snap."
+  },
+  {
+    "id": "loc-titan",
+    "name": "Titan",
+    "region": "Outer Galaxy / Thanos Homeworld",
+    "significance": "Ruined celestial world where Iron Man, Spider-Man, Doctor Strange, and Guardians confronted Thanos."
+  },
+  {
+    "id": "loc-vormir",
+    "name": "Vormir",
+    "region": "Center of Celestial Existence",
+    "significance": "Desolate realm of the Soul Stone requiring a soul for a soul sacrifice."
+  },
+  {
+    "id": "loc-new-asgard",
+    "name": "New Asgard (Tønsberg)",
+    "region": "Norway, Earth",
+    "significance": "Refugee settlement founded by Thor and Valkyrie for surviving Asgardians."
+  },
+  {
+    "id": "loc-the-garden",
+    "name": "The Garden (Planet 0259-S)",
+    "region": "Deep Space",
+    "significance": "Thanos' retirement sanctuary where he atomized the Infinity Stones and was executed by Thor."
+  }
+]

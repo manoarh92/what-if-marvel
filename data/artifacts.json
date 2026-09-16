@@ -1,0 +1,52 @@
+[
+  {
+    "id": "artifact-nano-gauntlet",
+    "name": "Nano Gauntlet",
+    "creator": "Tony Stark, Rocket, Bruce Banner",
+    "material": "Stark Nanotechnology",
+    "description": "Constructed to channel the combined power of all six Infinity Stones, capable of expanding to fit human, titan, or hulk physiques.",
+    "power_level": "Cosmic Grade - Universal Reality Alteration",
+    "toll": "Severe to fatal gamma and cosmic radiation surge onto the wielder"
+  },
+  {
+    "id": "artifact-infinity-stones",
+    "name": "The Six Infinity Stones",
+    "components": [
+      {"name": "Space Stone", "color": "Blue", "container": "Tesseract"},
+      {"name": "Mind Stone", "color": "Yellow", "container": "Vision's Forehead / Scepter"},
+      {"name": "Reality Stone", "color": "Red", "container": "Aether"},
+      {"name": "Power Stone", "color": "Purple", "container": "Orb"},
+      {"name": "Time Stone", "color": "Green", "container": "Eye of Agamotto"},
+      {"name": "Soul Stone", "color": "Orange", "container": "Vormir Altar"}
+    ],
+    "description": "Six elemental crystals forged from the big bang representing fundamental cosmic singularities."
+  },
+  {
+    "id": "artifact-stormbreaker",
+    "name": "Stormbreaker",
+    "creator": "Eitri the Dwarf King, Thor, Groot",
+    "material": "Uru Metal with Groot Vine Handle",
+    "description": "A king's weapon designed for the greatest warrior in Asgard, capable of summoning the Bifrost and deflecting Infinity energy blasts."
+  },
+  {
+    "id": "artifact-mjolnir",
+    "name": "Mjolnir",
+    "creator": "Eitri in the heart of a dying star",
+    "material": "Uru Metal",
+    "description": "Enchanted hammer granting the power of Thor to whoever is deemed worthy."
+  },
+  {
+    "id": "artifact-vibranium-shield",
+    "name": "Captain America's Shield",
+    "creator": "Howard Stark",
+    "material": "Pure Vibranium",
+    "description": "Iconic defensive and offensive disc completely absorbing kinetic energy, passed from Steve Rogers to Sam Wilson."
+  },
+  {
+    "id": "artifact-mark-85",
+    "name": "Iron Man Armor Mark LXXXV",
+    "creator": "Tony Stark",
+    "material": "Advanced Smart Gold-Titanium Nanotech",
+    "description": "Peak Stark armor integrating lightning re-channeling, energy shields, and seamless Infinity Stone transference."
+  }
+]

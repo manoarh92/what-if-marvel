@@ -1,0 +1,34 @@
+[
+  {
+    "id": "movie-avengers-1",
+    "title": "The Avengers",
+    "year": 2012,
+    "phase": 1,
+    "director": "Joss Whedon",
+    "synopsis": "Earth's mightiest heroes assemble for the first time to combat Thor's rogue brother Loki and an alien invasion."
+  },
+  {
+    "id": "movie-civil-war",
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "phase": 3,
+    "director": "Anthony and Joe Russo",
+    "synopsis": "Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage."
+  },
+  {
+    "id": "movie-infinity-war",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "phase": 3,
+    "director": "Anthony and Joe Russo",
+    "synopsis": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation."
+  },
+  {
+    "id": "movie-endgame",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "phase": 3,
+    "director": "Anthony and Joe Russo",
+    "synopsis": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions."
+  }
+]

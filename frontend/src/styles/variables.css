@@ -1,0 +1,53 @@
+:root {
+  /* Color Palette: Cosmic Multiverse & Deep Space */
+  --bg-space: #050711;
+  --bg-deep: #0a0d1d;
+  --bg-surface: rgba(14, 19, 38, 0.75);
+  --bg-surface-hover: rgba(22, 30, 60, 0.85);
+  --bg-surface-active: rgba(30, 41, 78, 0.95);
+  
+  /* Cosmic & Quantum Accents */
+  --quantum-cyan: #38bdf8;
+  --quantum-cyan-glow: rgba(56, 189, 248, 0.35);
+  --nebula-purple: #8b5cf6;
+  --nebula-purple-glow: rgba(139, 92, 246, 0.35);
+  --tva-gold: #f59e0b;
+  --tva-gold-glow: rgba(245, 158, 11, 0.35);
+  --divergence-red: #f43f5e;
+  --divergence-red-glow: rgba(244, 63, 94, 0.4);
+  --canon-blue: #3b82f6;
+  --canon-blue-glow: rgba(59, 130, 246, 0.3);
+  --success-emerald: #10b981;
+  
+  /* Text & Hierarchies */
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --text-glow: rgba(248, 250, 252, 0.8);
+  
+  /* Borders & Glassmorphism */
+  --border-glass: rgba(255, 255, 255, 0.08);
+  --border-glass-hover: rgba(255, 255, 255, 0.18);
+  --border-glow-cyan: rgba(56, 189, 248, 0.45);
+  --border-glow-gold: rgba(245, 158, 11, 0.45);
+  --blur-glass: blur(16px);
+  
+  /* Fonts */
+  --font-display: 'Cinzel', serif;
+  --font-scifi: 'Orbitron', monospace;
+  --font-sans: 'Outfit', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  
+  /* Radii & Shadows */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+  --shadow-cosmic: 0 10px 40px -10px rgba(0, 0, 0, 0.8), 0 0 30px -5px rgba(56, 189, 248, 0.15);
+  --shadow-divergence: 0 10px 40px -10px rgba(244, 63, 94, 0.25);
+  
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 450ms cubic-bezier(0.16, 1, 0.3, 1);
+}

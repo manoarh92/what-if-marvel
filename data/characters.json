@@ -1,0 +1,240 @@
+[
+  {
+    "id": "char-thor",
+    "name": "Thor Odinson",
+    "aliases": ["God of Thunder", "Point Break", "Lord of Thunder", "Lebowski Thor"],
+    "powers": ["Superhuman Strength", "Electrokinesis", "Longevity", "Flight via Weapon", "Weather Manipulation"],
+    "weapons": ["Mjolnir", "Stormbreaker"],
+    "affiliations": ["Avengers", "Asgardian Royal Family", "Revengers", "Guardians of the Galaxy"],
+    "relationships": {
+      "brother": "Loki",
+      "father": "Odin",
+      "allies": ["Tony Stark", "Steve Rogers", "Bruce Banner", "Rocket"]
+    },
+    "appearances": ["Thor", "The Avengers", "Thor: The Dark World", "Avengers: Age of Ultron", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame", "Thor: Love and Thunder"],
+    "status": "Alive",
+    "major_events": ["Battle of New York", "Ragnarok", "Battle of Wakanda", "Time Heist", "Battle of Earth"]
+  },
+  {
+    "id": "char-tony-stark",
+    "name": "Tony Stark",
+    "aliases": ["Iron Man", "The Mechanic", "Genius Billionaire Playboy Philanthropist"],
+    "powers": ["Genius-Level Intellect", "Master Engineer", "Nanotechnology Mastery"],
+    "weapons": ["Mark LXXXV Armor", "Repulsors", "Nano Gauntlet", "Unibeam"],
+    "affiliations": ["Avengers", "Stark Industries", "Illuminati (Multiversal)"],
+    "relationships": {
+      "spouse": "Pepper Potts",
+      "daughter": "Morgan Stark",
+      "protege": "Peter Parker",
+      "best_friend": "James Rhodes",
+      "rival_ally": "Steve Rogers"
+    },
+    "appearances": ["Iron Man", "Iron Man 2", "The Avengers", "Iron Man 3", "Avengers: Age of Ultron", "Captain America: Civil War", "Spider-Man: Homecoming", "Avengers: Infinity War", "Avengers: Endgame"],
+    "status": "Deceased (Canon Prime)",
+    "major_events": ["Battle of New York", "Civil War", "Battle of Titan", "Time Heist", "Battle of Earth", "Final Snap"]
+  },
+  {
+    "id": "char-steve-rogers",
+    "name": "Steve Rogers",
+    "aliases": ["Captain America", "Cap", "The First Avenger", "Nomad"],
+    "powers": ["Super-Soldier Physiology", "Peak Human Strength & Agility", "Master Tactician", "Mjolnir Worthiness"],
+    "weapons": ["Vibranium Shield", "Mjolnir (temporarily)"],
+    "affiliations": ["Avengers", "Howling Commandos", "SHIELD (former)"],
+    "relationships": {
+      "best_friend": "Bucky Barnes",
+      "love": "Peggy Carter",
+      "successor": "Sam Wilson",
+      "ally": "Tony Stark"
+    },
+    "appearances": ["Captain America: The First Avenger", "The Avengers", "Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame"],
+    "status": "Elderly / Retired",
+    "major_events": ["Battle of New York", "Civil War", "Battle of Wakanda", "Time Heist", "Battle of Earth", "Passing the Shield"]
+  },
+  {
+    "id": "char-bruce-banner",
+    "name": "Bruce Banner",
+    "aliases": ["Hulk", "Smart Hulk", "The Incredible Hulk", "Strongest Avenger"],
+    "powers": ["Immense Superhuman Strength", "Regenerative Healing", "Radiation Resistance", "Gamma Intellect"],
+    "weapons": ["Nano Gauntlet (preliminary snap)"],
+    "affiliations": ["Avengers", "Revengers"],
+    "relationships": {
+      "friend": "Tony Stark",
+      "past_interest": "Natasha Romanoff",
+      "ally": "Thor"
+    },
+    "appearances": ["The Incredible Hulk", "The Avengers", "Avengers: Age of Ultron", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame", "She-Hulk"],
+    "status": "Alive",
+    "major_events": ["Battle of New York", "Sokovia", "Ragnarok", "The Blip Reversal Snap", "Battle of Earth"]
+  },
+  {
+    "id": "char-natasha-romanoff",
+    "name": "Natasha Romanoff",
+    "aliases": ["Black Widow", "Nat"],
+    "powers": ["Master Martial Artist", "Master Spy", "Peak Human Agility", "Weapons Expert"],
+    "weapons": ["Widow's Bite", "Dual Batons", "Glock 26 pistols"],
+    "affiliations": ["Avengers", "SHIELD", "Red Room (former)"],
+    "relationships": {
+      "sister": "Yelena Belova",
+      "best_friend": "Clint Barton",
+      "allies": ["Steve Rogers", "Bruce Banner"]
+    },
+    "appearances": ["Iron Man 2", "The Avengers", "Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame", "Black Widow"],
+    "status": "Deceased (Sacrificed on Vormir)",
+    "major_events": ["Battle of New York", "Civil War", "Vormir Soul Stone Sacrifice"]
+  },
+  {
+    "id": "char-clint-barton",
+    "name": "Clint Barton",
+    "aliases": ["Hawkeye", "Ronin"],
+    "powers": ["Master Marksman", "Master Archer", "Hand-to-Hand Combatant"],
+    "weapons": ["Custom Recurve Bow", "Trick Arrows", "Katana (Ronin)"],
+    "affiliations": ["Avengers", "SHIELD"],
+    "relationships": {
+      "spouse": "Laura Barton",
+      "best_friend": "Natasha Romanoff",
+      "protege": "Kate Bishop"
+    },
+    "appearances": ["Thor", "The Avengers", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Endgame", "Hawkeye"],
+    "status": "Alive",
+    "major_events": ["Battle of New York", "Civil War", "Vormir Soul Stone Mission", "Battle of Earth"]
+  },
+  {
+    "id": "char-peter-parker",
+    "name": "Peter Parker",
+    "aliases": ["Spider-Man", "Spidey", "Underoos", "Friendly Neighborhood Spider-Man"],
+    "powers": ["Wall-Crawling", "Spider-Sense", "Superhuman Agility & Strength"],
+    "weapons": ["Web-Shooters", "Iron Spider Armor"],
+    "affiliations": ["Avengers", "Midtown High"],
+    "relationships": {
+      "mentor": "Tony Stark",
+      "aunt": "May Parker",
+      "friend": "Ned Leeds",
+      "love": "MJ"
+    },
+    "appearances": ["Captain America: Civil War", "Spider-Man: Homecoming", "Avengers: Infinity War", "Avengers: Endgame", "Spider-Man: Far From Home", "Spider-Man: No Way Home"],
+    "status": "Alive",
+    "major_events": ["Civil War", "Battle of Titan", "Battle of Earth"]
+  },
+  {
+    "id": "char-wanda-maximoff",
+    "name": "Wanda Maximoff",
+    "aliases": ["Scarlet Witch"],
+    "powers": ["Chaos Magic", "Reality Warping", "Telekinesis", "Psionic Energy"],
+    "weapons": ["Darkhold (later)"],
+    "affiliations": ["Avengers"],
+    "relationships": {
+      "brother": "Pietro Maximoff",
+      "love": "Vision"
+    },
+    "appearances": ["Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame", "WandaVision", "Doctor Strange in the Multiverse of Madness"],
+    "status": "Unknown / Vanished",
+    "major_events": ["Battle of Sokovia", "Civil War", "Battle of Wakanda", "Battle of Earth"]
+  },
+  {
+    "id": "char-scott-lang",
+    "name": "Scott Lang",
+    "aliases": ["Ant-Man", "Giant-Man"],
+    "powers": ["Size Manipulation (Shrink & Giant)", "Superhuman Strength at Small Size", "Quantum Realm Navigation"],
+    "weapons": ["Ant-Man Suit", "Pym Particles"],
+    "affiliations": ["Avengers", "Pym Technologies"],
+    "relationships": {
+      "partner": "Hope van Dyne",
+      "mentor": "Hank Pym",
+      "daughter": "Cassie Lang"
+    },
+    "appearances": ["Ant-Man", "Captain America: Civil War", "Ant-Man and the Wasp", "Avengers: Endgame", "Ant-Man and the Wasp: Quantumania"],
+    "status": "Alive",
+    "major_events": ["Civil War", "Quantum Realm Discovery", "Time Heist Catalyst", "Battle of Earth"]
+  },
+  {
+    "id": "char-carol-danvers",
+    "name": "Carol Danvers",
+    "aliases": ["Captain Marvel"],
+    "powers": ["Cosmic Energy Manipulation", "Faster-Than-Light Flight", "Invulnerability", "Photon Blasts"],
+    "weapons": ["Binary Form"],
+    "affiliations": ["Avengers", "Starforce (former)", "US Air Force"],
+    "relationships": {
+      "mentor_friend": "Nick Fury",
+      "friend": "Maria Rambeau"
+    },
+    "appearances": ["Captain Marvel", "Avengers: Endgame", "The Marvels"],
+    "status": "Alive",
+    "major_events": ["Kree-Skrull War", "Rescue of Tony Stark", "Battle of Earth"]
+  },
+  {
+    "id": "char-rocket",
+    "name": "Rocket Raccoon",
+    "aliases": ["Rocket", "Build-A-Bear", "Sweet Rabbit"],
+    "powers": ["Genius Mechanical Intellect", "Enhanced Senses", "Expert Marksman"],
+    "weapons": ["Hadron Enforcer", "Laser Rifles", "Ion Blasters"],
+    "affiliations": ["Guardians of the Galaxy", "Avengers"],
+    "relationships": {
+      "best_friend": "Groot",
+      "friend": "Thor",
+      "ally": "Nebula"
+    },
+    "appearances": ["Guardians of the Galaxy", "Guardians of the Galaxy Vol. 2", "Avengers: Infinity War", "Avengers: Endgame", "Guardians of the Galaxy Vol. 3"],
+    "status": "Alive",
+    "major_events": ["Battle of Xandar", "Battle of Wakanda", "Time Heist", "Battle of Earth"]
+  },
+  {
+    "id": "char-nebula",
+    "name": "Nebula",
+    "aliases": ["Daughter of Thanos", "Smurfette"],
+    "powers": ["Cybernetic Augmentations", "Regenerative Systems", "Master Assassin"],
+    "weapons": ["Electroshock Batons", "Arm Blasters"],
+    "affiliations": ["Guardians of the Galaxy", "Avengers", "Children of Thanos (former)"],
+    "relationships": {
+      "sister": "Gamora",
+      "adoptive_father": "Thanos",
+      "friend": "Tony Stark"
+    },
+    "appearances": ["Guardians of the Galaxy", "Guardians of the Galaxy Vol. 2", "Avengers: Infinity War", "Avengers: Endgame", "Guardians of the Galaxy Vol. 3"],
+    "status": "Alive",
+    "major_events": ["Battle of Titan", "Rescue of Stark", "Time Heist", "Battle of Earth"]
+  },
+  {
+    "id": "char-loki",
+    "name": "Loki Laufeyson",
+    "aliases": ["God of Mischief", "God of Stories"],
+    "powers": ["Sorcery & Illusion Casting", "Shape-Shifting", "Frost Giant Physiology", "Temporal Manipulation (later)"],
+    "weapons": ["Chitauri Scepter (former)", "Daggers", "Tesseract (former)"],
+    "affiliations": ["Asgardian Royal Family", "Time Variance Authority"],
+    "relationships": {
+      "brother": "Thor",
+      "adoptive_father": "Odin"
+    },
+    "appearances": ["Thor", "The Avengers", "Thor: The Dark World", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame", "Loki (Series)"],
+    "status": "Deceased in Prime / Ascended in Multiverse",
+    "major_events": ["Invasion of New York", "Ragnarok", "Attack on Statesman"]
+  },
+  {
+    "id": "char-thanos",
+    "name": "Thanos",
+    "aliases": ["The Mad Titan"],
+    "powers": ["Titan Physiology", "Superhuman Strength & Durability", "Master Strategist", "Omnipotence with Stones"],
+    "weapons": ["Infinity Gauntlet", "Double-Edged Sword"],
+    "affiliations": ["Children of Thanos", "Chitauri Army", "Outriders"],
+    "relationships": {
+      "adoptive_daughters": ["Gamora", "Nebula"]
+    },
+    "appearances": ["The Avengers (cameo)", "Guardians of the Galaxy", "Avengers: Age of Ultron (cameo)", "Avengers: Infinity War", "Avengers: Endgame"],
+    "status": "Deceased (Dusted in 2023 / Beheaded in 2018)",
+    "major_events": ["Battle of Titan", "Battle of Wakanda", "The Decimation Snap", "Attack on Avengers Compound", "Battle of Earth"]
+  },
+  {
+    "id": "char-sam-wilson",
+    "name": "Sam Wilson",
+    "aliases": ["Falcon", "Captain America (New)"],
+    "powers": ["Exo-7 Falcon Wing Flight", "Peak Human Conditioning", "Master Aerial Combatant"],
+    "weapons": ["Vibranium EXO Flight Suit", "Redwing Drone", "Vibranium Shield"],
+    "affiliations": ["Avengers", "US Air Force"],
+    "relationships": {
+      "best_friend": "Steve Rogers",
+      "partner": "Bucky Barnes"
+    },
+    "appearances": ["Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame", "The Falcon and the Winter Soldier", "Captain America: Brave New World"],
+    "status": "Alive",
+    "major_events": ["Civil War", "Battle of Wakanda", "Battle of Earth", "Receiving the Shield"]
+  }
+]

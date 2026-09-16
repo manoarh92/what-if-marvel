@@ -1,0 +1,33 @@
+{
+  "timelines": [
+    {
+      "id": "MCU-PRIME",
+      "designation": "Earth-616 / Sacred Timeline Prime",
+      "status": "CANONICAL",
+      "stability": 100,
+      "description": "The baseline Marvel Cinematic Universe as observed by Uatu the Watcher through Avengers: Endgame.",
+      "anchor_events": [
+        "event-1",
+        "event-2",
+        "event-3",
+        "event-4",
+        "event-5",
+        "event-6",
+        "event-7",
+        "event-8",
+        "event-9",
+        "event-10",
+        "event-11",
+        "event-12",
+        "event-13",
+        "event-14"
+      ]
+    }
+  ],
+  "rules": {
+    "divergence_penalty_per_step": 6,
+    "nexus_instability_factor": 12,
+    "minimum_stability": 25,
+    "maximum_stability": 98
+  }
+}

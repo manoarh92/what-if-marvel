@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rel-tony-peter",
+    "type": "Mentor - Protege",
+    "characters": ["Tony Stark", "Peter Parker"],
+    "description": "Tony acts as a father figure and guiding mentor to Peter, equipping him with technology and shaping his moral responsibility."
+  },
+  {
+    "id": "rel-thor-tony",
+    "type": "Founding Avengers Camaraderie",
+    "characters": ["Thor", "Tony Stark"],
+    "description": "Bantering rivalry that evolved into deep mutual respect between science and thunder across a decade of universal crises."
+  },
+  {
+    "id": "rel-steve-sam",
+    "type": "Partnership & Succession",
+    "characters": ["Steve Rogers", "Sam Wilson"],
+    "description": "Unwavering loyalty starting from their morning jog in Washington DC to passing the Captain America mantle."
+  },
+  {
+    "id": "rel-thor-rocket",
+    "type": "Trauma Bond & Brotherhood",
+    "characters": ["Thor", "Rocket"],
+    "description": "Unexpected comedic yet poignant friendship forged through shared loss and the quest to forge Stormbreaker."
+  },
+  {
+    "id": "rel-tony-pepper-morgan",
+    "type": "Family Core",
+    "characters": ["Tony Stark", "Pepper Potts", "Morgan Stark"],
+    "description": "Tony's peaceful domestic life during the five-year blip that he risked everything to protect during the Time Heist."
+  }
+]

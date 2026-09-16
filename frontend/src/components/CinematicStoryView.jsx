@@ -171,6 +171,7 @@ export default function CinematicStoryView({ narrative, timeline }) {
           </div>
         </section>
       )}
+      
 
       {/* 5. ALTERNATE ENDING */}
       {alternateEnding && (
